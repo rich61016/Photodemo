@@ -1,2 +1,2 @@
 # Photodemo
-使用mvvm進行此次作業
+使用mvc進行此次作業
